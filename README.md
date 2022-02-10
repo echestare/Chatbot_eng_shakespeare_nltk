@@ -90,5 +90,5 @@ In google colab:
 <!-- IMAGES -->
 ## Images:
 
-<img src="https://github.com/echestare/chatbot_esp_chatterbot/blob/main/Snapshots/face.jpg" alt="drawing" width="250"/>
-<img src="https://github.com/echestare/chatbot_esp_chatterbot/blob/main/Snapshots/chat.jpg" alt="drawing" width="250"/>
+<img src="https://github.com/echestare/Chatbot_eng_shakespeare_nltk/blob/main/Snapshots/face.jpg" alt="drawing" width="250"/>
+<img src="https://github.com/echestare/Chatbot_eng_shakespeare_nltk/blob/main/Snapshots/chat.jpg" alt="drawing" width="250"/>
