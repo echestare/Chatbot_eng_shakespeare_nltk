@@ -6,6 +6,8 @@
 <h1 align="center"> A ChatBot that answer as Shakespeare </h1>
 <h3 align="center"> Built with "NLTK" library and "Scikit-learn" library.  </h3>
 
+<img src="https://github.com/echestare/Chatbot_eng_shakespeare_nltk/blob/main/Snapshots/face.jpg" alt="drawing" width="250"/>
+
 <!-- TABLE OF CONTENTS -->
 ## Index
 <details open="open">
@@ -90,5 +92,4 @@ In google colab:
 <!-- IMAGES -->
 ## Images:
 
-<img src="https://github.com/echestare/Chatbot_eng_shakespeare_nltk/blob/main/Snapshots/face.jpg" alt="drawing" width="250"/>
 <img src="https://github.com/echestare/Chatbot_eng_shakespeare_nltk/blob/main/Snapshots/chat.jpg" alt="drawing" width="250"/>
